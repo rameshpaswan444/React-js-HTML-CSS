@@ -1,0 +1,63 @@
+.Header{
+    display: flex;
+ 
+    justify-content: space-between;
+    background-color: burlywood;
+    padding: 10px;
+    width: 100%;
+
+  
+}
+body{
+    margin: 0px;
+    padding: 0px;
+   
+    
+
+
+}
+.Header ul{
+    display: flex;
+    list-style: none;
+    margin: auto;
+    gap: 10px;
+   
+
+}
+.Header ul li{
+    padding: 10px;
+
+}
+.Header .link{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.school .link{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 10px;
+
+}
+.user-list{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #aaa;
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    gap: 200px;
+}
+/* .user-list-a{
+    display: flex;
+    justify-content: center;
+    border: 1px solid #aaa;
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    gap: 220px;
+} */
+.user-list-head{
+    font-size: 20px;
+    font-weight: 800;
+}

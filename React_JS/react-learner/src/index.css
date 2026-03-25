@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'helvetica neue'
+
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.card{
+  height: 200px; 
+  border: 1px solid white;
+  padding: 20px;
+  text-align: center;
+}
+
+.card button{
+  padding: 10px 20px;
+  background-color: rgb(95, 42, 165);
+  color: black;
+ 
+
+}
+
+

@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "64f0",
+      "name": "suresh",
+      "age": "30",
+      "email": "suresh@gmail.com"
+    },
+    {
+      "name": "Ramesh Paswan",
+      "age": "28",
+      "email": "ramesh@gmail.com",
+      "id": "6965"
+    },
+    {
+      "id": "ad1c",
+      "name": "Hari",
+      "age": "23",
+      "email": "hari@gmail.com"
+    },
+    {
+      "name": "Gita  Shrestha",
+      "age": "34",
+      "email": "gita@gmail.com",
+      "id": "b379"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
